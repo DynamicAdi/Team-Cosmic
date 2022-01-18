@@ -8,6 +8,10 @@
         "Team-Cosmic"
     ],
     "env": {
+        "FRWD_GP": {
+            "description": "Private group id",
+        },
+
         "TOKEN": {
             "description": "Your Bot token from @Botfather"
         },
