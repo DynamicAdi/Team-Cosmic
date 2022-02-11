@@ -8,10 +8,6 @@
         "Team-Cosmic"
     ],
     "env": {
-        "FRWD_GP": {
-            "description": "Private group id",
-        },
-
         "TOKEN": {
             "description": "Your Bot token from @Botfather"
         },
@@ -20,6 +16,9 @@
         },
         "API_HASH": {
             "description": "Your API_HASH from https://my.telegram.org/apps"
+        },
+        "FRWD_GP": {
+          "description": "Your Private Group id"
         }
     },
     "buildpacks": [
